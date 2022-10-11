@@ -6,4 +6,4 @@ function Oven(props) {
   );
 }
 
-export default Oven;
+export default Oven

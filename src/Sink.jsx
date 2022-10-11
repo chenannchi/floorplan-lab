@@ -6,4 +6,4 @@ function Sink(props) {
   );
 }
 
-export default Sink;
+export default Sink

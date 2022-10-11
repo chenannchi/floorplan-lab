@@ -3,3 +3,8 @@ div {
   margin: 5px;
   padding: 5px;
 }
+
+#floorPlan{
+  display: grid;
+  
+}
